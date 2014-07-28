@@ -1,0 +1,735 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../我的消息_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:13px;
+    top:21px;
+    width:400px;
+    height:601px;
+}
+
+#u0_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:406px;
+    height:607px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:292px;
+    width:396px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2_normal {
+    background-image: url('../我的消息_files/u2_normal.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:13px;
+    top:16px;
+    width:400px;
+    height:43px;
+}
+
+#u2_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:406px;
+    height:49px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:396px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4 {
+    position:absolute;
+    left:26px;
+    top:23px;
+    width:29px;
+    height:29px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u5_normal {
+    background-image: url('../我的消息_files/u5_normal.png');
+}
+
+.u5_container {
+    position:absolute;
+    left:13px;
+    top:58px;
+    width:400px;
+    height:75px;
+}
+
+#u5_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:406px;
+    height:81px;
+}
+
+.u6 {
+    position:absolute;
+    left:2px;
+    top:30px;
+    width:396px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u7 {
+    position:absolute;
+    left:62px;
+    top:70px;
+    width:150px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u8 {
+    position:absolute;
+    left:62px;
+    top:83px;
+    width:150px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u9_normal {
+    background-image: url('../我的消息_files/u9_normal.png');
+}
+
+.u9_container {
+    position:absolute;
+    left:62px;
+    top:104px;
+    width:337px;
+    height:20px;
+}
+
+#u9_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:343px;
+    height:26px;
+}
+
+.u10 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:333px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u11_normal {
+    background-image: url('../我的消息_files/u5_normal.png');
+}
+
+.u11_container {
+    position:absolute;
+    left:13px;
+    top:128px;
+    width:400px;
+    height:75px;
+}
+
+#u11_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:406px;
+    height:81px;
+}
+
+.u12 {
+    position:absolute;
+    left:2px;
+    top:30px;
+    width:396px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u13 {
+    position:absolute;
+    left:62px;
+    top:140px;
+    width:150px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u14 {
+    position:absolute;
+    left:62px;
+    top:153px;
+    width:150px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u15_normal {
+    background-image: url('../我的消息_files/u9_normal.png');
+}
+
+.u15_container {
+    position:absolute;
+    left:62px;
+    top:174px;
+    width:337px;
+    height:20px;
+}
+
+#u15_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:343px;
+    height:26px;
+}
+
+.u16 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:333px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u17_normal {
+    background-image: url('../我的消息_files/u17_normal.png');
+}
+
+.u17_container {
+    position:absolute;
+    left:20px;
+    top:72px;
+    width:32px;
+    height:32px;
+}
+
+#u17_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:32px;
+    height:32px;
+}
+
+.u18 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:28px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u19_normal {
+    background-image: url('../我的消息_files/u17_normal.png');
+}
+
+.u19_container {
+    position:absolute;
+    left:20px;
+    top:143px;
+    width:32px;
+    height:32px;
+}
+
+#u19_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:32px;
+    height:32px;
+}
+
+.u20 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:28px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u21_normal {
+    background-image: url('../我的消息_files/u5_normal.png');
+}
+
+.u21_container {
+    position:absolute;
+    left:13px;
+    top:203px;
+    width:400px;
+    height:75px;
+}
+
+#u21_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:406px;
+    height:81px;
+}
+
+.u22 {
+    position:absolute;
+    left:2px;
+    top:30px;
+    width:396px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u23 {
+    position:absolute;
+    left:62px;
+    top:215px;
+    width:150px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u24 {
+    position:absolute;
+    left:62px;
+    top:228px;
+    width:150px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u25_normal {
+    background-image: url('../我的消息_files/u9_normal.png');
+}
+
+.u25_container {
+    position:absolute;
+    left:62px;
+    top:249px;
+    width:337px;
+    height:20px;
+}
+
+#u25_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:343px;
+    height:26px;
+}
+
+.u26 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:333px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u27_normal {
+    background-image: url('../我的消息_files/u5_normal.png');
+}
+
+.u27_container {
+    position:absolute;
+    left:13px;
+    top:273px;
+    width:400px;
+    height:75px;
+}
+
+#u27_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:406px;
+    height:81px;
+}
+
+.u28 {
+    position:absolute;
+    left:2px;
+    top:30px;
+    width:396px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u29 {
+    position:absolute;
+    left:62px;
+    top:285px;
+    width:150px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u30 {
+    position:absolute;
+    left:62px;
+    top:298px;
+    width:150px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u31_normal {
+    background-image: url('../我的消息_files/u9_normal.png');
+}
+
+.u31_container {
+    position:absolute;
+    left:62px;
+    top:319px;
+    width:337px;
+    height:20px;
+}
+
+#u31_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:343px;
+    height:26px;
+}
+
+.u32 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:333px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u33_normal {
+    background-image: url('../我的消息_files/u17_normal.png');
+}
+
+.u33_container {
+    position:absolute;
+    left:20px;
+    top:217px;
+    width:32px;
+    height:32px;
+}
+
+#u33_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:32px;
+    height:32px;
+}
+
+.u34 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:28px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u35_normal {
+    background-image: url('../我的消息_files/u17_normal.png');
+}
+
+.u35_container {
+    position:absolute;
+    left:20px;
+    top:288px;
+    width:32px;
+    height:32px;
+}
+
+#u35_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:32px;
+    height:32px;
+}
+
+.u36 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:28px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u37_normal {
+    background-image: url('../我的消息_files/u5_normal.png');
+}
+
+.u37_container {
+    position:absolute;
+    left:13px;
+    top:348px;
+    width:400px;
+    height:75px;
+}
+
+#u37_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:406px;
+    height:81px;
+}
+
+.u38 {
+    position:absolute;
+    left:2px;
+    top:30px;
+    width:396px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u39 {
+    position:absolute;
+    left:62px;
+    top:360px;
+    width:150px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u40 {
+    position:absolute;
+    left:62px;
+    top:373px;
+    width:336px;
+    height:30px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u41_normal {
+    background-image: url('../我的消息_files/u17_normal.png');
+}
+
+.u41_container {
+    position:absolute;
+    left:20px;
+    top:363px;
+    width:32px;
+    height:32px;
+}
+
+#u41_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:32px;
+    height:32px;
+}
+
+.u42 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:28px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u43 {
+    position:absolute;
+    left:13px;
+    top:54px;
+    width:399px;
+    height:73px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
